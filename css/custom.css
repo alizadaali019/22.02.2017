@@ -1,0 +1,21 @@
+#header .col12 ul li{
+	display: inline;
+	list-style: none;
+	margin-right: 7px;
+}
+#header .col12 ul li a{
+	text-decoration: none;
+	/*font-weight: bold;*/
+}
+#header .col12 ul li a:link{
+	color: black;
+}
+#header .col12 ul li:first-child a:link{
+	color: lightgrey;
+}
+.button .col12{
+	text-align: center;
+}
+.the-end #header .col12{
+	background: #1F1F1F;
+}
